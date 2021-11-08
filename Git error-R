@@ -1,0 +1,6 @@
+https://www.youtube.com/watch?v=H3KjgiBaakM
+when you get this “fatal: remote origin already exists” error, you can usually fix it by changing the “git remote add origin” to “git remote set-url origin”.
+
+#How to fix github permission denied publickey 
+fatal could not read from remote repository?
+https://www.youtube.com/watch?v=lV5mrUYsucU
